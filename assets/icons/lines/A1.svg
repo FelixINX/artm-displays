@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 8.4667 8.4667" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath4232">
+   <path transform="translate(-471.66 -1885.1)" d="m0 2592h2592v-2592h-2592z"/>
+  </clipPath>
+  <clipPath id="clipPath4230">
+   <path transform="translate(-465.45 -1892.5)" d="m0 2592h2592v-2592h-2592z"/>
+  </clipPath>
+  <clipPath id="clipPath4228">
+   <path transform="translate(-468.1 -1901.2)" d="m0 2592h2592v-2592h-2592z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(11.705 -1.5247)">
+  <path transform="matrix(.35278 0 0 -.35278 -7.4711 1.5875)" d="m0 0c-6.529 0-11.822-5.293-11.822-11.822s5.293-11.822 11.822-11.822 11.821 5.293 11.821 11.822-5.292 11.822-11.821 11.822m0-1.651c2.716 0 5.271-1.058 7.191-2.979 1.921-1.921 2.979-4.475 2.979-7.192s-1.058-5.27-2.979-7.191c-1.92-1.922-4.475-2.979-7.191-2.979-2.717 0-5.271 1.057-7.192 2.979-1.921 1.921-2.978 4.474-2.978 7.191s1.057 5.271 2.978 7.192 4.475 2.979 7.192 2.979" clip-path="url(#clipPath4228)" fill="#75c92b"/>
+  <path transform="matrix(.35278 0 0 -.35278 -8.4077 4.6461)" d="m0 0h-0.025l-1.179-3.941h2.268zm2.015-7.362-0.583 2.091h-2.991l-0.633-2.091h-1.711l2.952 8.844h1.927l2.851-8.844z" clip-path="url(#clipPath4230)" fill="#fff"/>
+  <path transform="matrix(.35278 0 0 -.35278 -6.2173 7.2433)" d="m0 0v6.906l-1.141-1.191-0.823 1.217 2.256 1.913h1.406v-8.845z" clip-path="url(#clipPath4232)" fill="#fff"/>
+ </g>
+</svg>
