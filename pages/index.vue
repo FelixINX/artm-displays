@@ -4,9 +4,9 @@
     <div class="container mx-auto p-8">
         <h1 class="text-7xl font-bold">Totem d'accueil</h1>
         <div class="space-x-2 text-5xl mt-4">
-            <NuxtLink class="bg-gray-900 p-2" to="/departures/berriuqam">Berri-UQAM</NuxtLink>
-            <NuxtLink class="bg-gray-900 p-2" to="/departures/garecentrale">Gare Centrale</NuxtLink>
-            <NuxtLink class="bg-gray-900 p-2" to="/departures/snowdon">Snowdon</NuxtLink>
+            <NuxtLink class="bg-gray-900 p-2" to="/welcome/berriuqam">Berri-UQAM</NuxtLink>
+            <NuxtLink class="bg-gray-900 p-2" to="/welcome/garecentrale">Gare Centrale</NuxtLink>
+            <NuxtLink class="bg-gray-900 p-2" to="/welcome/snowdon">Snowdon</NuxtLink>
         </div>
     </div>
 </div>

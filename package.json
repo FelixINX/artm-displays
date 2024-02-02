@@ -17,5 +17,6 @@
   },
   "dependencies": {
     "nuxt-icons": "^3.2.1"
-  }
+  },
+  "packageManager": "yarn@4.1.0"
 }
